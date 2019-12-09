@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using SalaryCapGaming.Models;
+using SalaryCapGaming.Views.WebViewsModels;
+using System.Diagnostics;
 
 namespace SalaryCapGaming.Controllers
 {

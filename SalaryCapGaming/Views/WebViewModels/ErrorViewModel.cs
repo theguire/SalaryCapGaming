@@ -1,6 +1,4 @@
-using System;
-
-namespace SalaryCapGaming.Models
+namespace SalaryCapGaming.Views.WebViewsModels
 {
     public class ErrorViewModel
     {
